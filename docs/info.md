@@ -6,9 +6,10 @@ sidebar_position: 2
 ## UM ALL 技术栈
 ### Frontend
 
-- React Native
-- React Native Elements
-- Tailwind CSS
+- [React Native](https://reactnative.dev/)
+  - [React Navagation](https://reactnavigation.org/)
+- [React Native Elements](https://reactnativeelements.com/docs)
+- [Tailwind CSS](https://tailwindcss.com/docs/installation)
 ### Backend
 
 - Python
