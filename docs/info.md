@@ -3,6 +3,7 @@ sidebar_position: 2
 ---
 # Useful Info
 
+https://www.um.edu.mo/students/e-bulletin/
 ## UM ALL 技术栈
 ### Frontend
 
