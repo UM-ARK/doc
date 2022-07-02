@@ -24,6 +24,7 @@ item in `content`
 | contact   | obj  |                                                                       |
 
 `contact`
+
 | Key  | Value  | Remark|
 | ---- | ------ | ----------------------------------------------------- |
 | type | str | 聯繫類型，Wechat，Email，Phone，IG，Facebook，Website |
