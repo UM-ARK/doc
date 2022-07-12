@@ -7,10 +7,17 @@
 
 method: POST
 
-### URL parameters：
-|parameter|required|type|illustrate|example|
-|---------|--------|----|----------|-------|
-|id       |yes     |str |to query info for the specified ID|http://XXX.XXX/edit_club_info/?id=123|
+### POST parameters：
+|name|required|type|illustrate|
+|---------|--------|----|----------|
+|id       |yes     |str |to query info for the specified ID|
+|intro    |yes     |str |the update introText data|
+|contact  |yes     |array|the update contact data|
+
+ * contact array example:
+ `[{"type":"Email","num":"umsu.umsuacs@umac.mo"},{"type":"Facebook","num":"澳門大學動漫研究會(umacs)"}]`
+
+
 
 ## Return example
 ```go
