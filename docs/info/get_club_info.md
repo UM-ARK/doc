@@ -1,8 +1,10 @@
+# get_club_info
 ## Description:
  To get the club info.
 
 ## Request URL:
 `http://XXX.XXX/get_club_info/<str:mode>/`
+
 method: GET
 
 ### mode:
