@@ -17,11 +17,13 @@ item in `content`
 
 | Key| Value  | Remark|
 | --------- | ------ | ---------------------------------------------------------------------------------------------- |
-| clubID    | int    |                                                                  |
+| club_num  | int    |                                                                  |
+| logo_url  | int |url|
 | name      | str | 社團/組織名                                                                                    |
 | tag       | str | sa 學生會, club 學會, society 社團, college 書院, official 澳大官方, media 媒體, business 商業 |
 | introText | str |                                                                                       |
-| contact   | obj  |                                                                       |
+| contact   | obj list |                                                                                  |  
+| club_photos_list|str list|相片的url list|
 
 `contact`
 
