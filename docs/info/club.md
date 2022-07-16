@@ -15,15 +15,18 @@ Return
 
 item in `content`
 
-| Key| Value  | Remark|
-| --------- | ------ | ---------------------------------------------------------------------------------------------- |
-| club_num  | int    |                                                                  |
-| logo_url  | int |url|
-| name      | str | 社團/組織名                                                                                    |
-| tag       | str | sa 學生會, club 學會, society 社團, college 書院, official 澳大官方, media 媒體, business 商業 |
-| introText | str |                                                                                       |
-| contact   | obj list |                                                                                  |  
-| club_photos_list|str list|相片的url list|
+| Key              | Value    | Remark                                                                        |
+|------------------|----------|-------------------------------------------------------------------------------|
+| club_id          | str      |                                                                               |
+| club_num         | int      | 自動增加                                                                          |
+|club_account| str      ||
+|club_password|str||
+| logo_url         | int      | url                                                                           |
+| name             | str      | 社團/組織名                                                                        |
+| tag              | str      | sa 學生會, club 學會, society 社團, college 書院, official 澳大官方, media 媒體, business 商業 |
+| introText        | str      |                                                                               |
+| contact          | obj list |                                                                               |  
+| club_photos_list | str list | 相片的url list                                                                   |
 
 `contact`
 

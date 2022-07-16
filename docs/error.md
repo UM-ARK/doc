@@ -11,3 +11,18 @@ sidebar_position: 10000
 * 400: Bad Request
 * 401: wrong account or password 
 * 900 : unknown error
+
+
+---
+> if request not successful,will return:
+```
+        result = {
+            'code': '900',
+            'message': 'UnknownError',
+            'detail': e,
+        }
+```
+
+* code : must exist
+* message : must exist
+* detail : may not exist
