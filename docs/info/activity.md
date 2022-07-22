@@ -15,7 +15,7 @@ Return
 |--------------|-------|--------------------------------------------------|
 | activity_id  | int   |                                                  |
 | title        | str   |                                                  |
-| type         | str   | activity 普通活動, official 澳大官方, website 需 web 跳轉類型 |
+| type         | str   | ACTIVITY 普通活動, OFFICIAL 澳大官方, WEBSITE 需 web 跳轉類型 |
 | link         | str   |                                                  |
 | created_by   | str   | id of club                                       |
 | coverImgUrl  | str   |                                                  |

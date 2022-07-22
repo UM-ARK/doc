@@ -23,7 +23,7 @@ item in `content`
 |club_password|str||
 | logo_url         | int      | url                                                                           |
 | name             | str      | 社團/組織名                                                                        |
-| tag              | str      | sa 學生會, club 學會, society 社團, college 書院, official 澳大官方, media 媒體, business 商業 |
+| tag              | str      | SA 學生會, CLUB 學會, SOCIETY 社團, COLLEGE 書院, OFFICIAL 澳大官方, MEDIA 媒體, BUSINESS 商業 |
 | introText        | str      |                                                                               |
 | contact          | obj list |                                                                               |  
 | club_photos_list | str list | 相片的url list                                                                   |
