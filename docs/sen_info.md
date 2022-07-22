@@ -1,0 +1,108 @@
+---
+sidebar_position: 99
+---
+# Sensitive Information
+
+---
+
+Template
+
+```
+Subject
+From: 
+To: 
+Message:
+-----BEGIN PGP MESSAGE-----
+-----END PGP MESSAGE-----
+```
+
+---
+## Gmail Account & PW & 2FA Token
+
+From:       Box
+
+To:         Box
+
+Message:
+
+-----BEGIN PGP MESSAGE-----
+
+hQEMAzTNWhRcR84wAQgAmMnzjdLs8wx8irosgYn9XIkZbtt7TOu8Qh50B19mlauc
+Hc9vpzNzFibeDpk0h7iaXgBJxbi2V43LxjV61BPZ2Ri9MwMJwlcYCWcddEQo2tqo
+af1W9qXM+RSwSDLOSVudI6/qWAvhZdRC7ow5t49+BqI5SUesjP00gPXKwd5rFB4Z
+BzOX/iabCRoeS1OB4rYOqEJWHc0y2PooW3rtlbqXXc2YBm1SF7//p5oWYoNiAYWz
+4IHw4fl77D/xO4kmpN9Q7qonIoxQUUzkrItXmmdafJuIRQUtXP28vV4AU4DCzlU6
+7MRzOXjONcD0biczWZG3WlOPT6VbPY8iXSWm9zLRytLBIgEXXozLN8U/Dj+ZcEz1
+ZMxn4piTQ1RGYNWRSqMKATv7njygSeCEz07qX1xefG34G0xlQW5a1pyIw4i3NKfO
+jcDiTzccOCwOXK9o0VKPGGTu0tzZNC4b2n2NWCvsLVB9I0DXyRwehxFvwIzy3rTw
+2h1i6yVKt2PoufK+XpqTzz7DO7ncPKkwfGD5wn4nYffdOqeXgQZS6kfi2JiKsDKg
+qjacCpEtheBG3Fp3VSPuxhuX/JFO4831WVUFbokkgbfMoWr62oHMLBfKiq/tt5Hk
+yBIsF8oAOHpPEDgJmdzFiT9GzxccSzDw6dNbWCdQQ7nDnCCUNX0sOh6+Zo8HFlcA
+eSmDq11sk6JXv8GBXKTq2IdafzI/ud0BAAK2iUY+cVv3I0uFku3DYQ+BpkULegWW
+hzpw0POyTTz326AJHg5blHqvPxWo7gxwNKmdiwBWaDQ3Zr5yKYtQd+i++cjvJr9f
+SpQuCGZydsfhaDsGhX1WiBiubzL8G0ssYmV37hpbiFMM+gvi2DI9XJLaOCLppq6Y
+/jhZfGEUyXTapF+DvT94EUH1ii+w+p+1pZ91ZHZp5AW66pCs9imZgN1IiUChUkdz
+7a4ya9lmk8614aI79XuJWztRKT158FEaaSroaHZ+IjdQyKQb
+=GNS4
+-----END PGP MESSAGE-----
+
+---
+
+## Apple Develop Account
+
+From:       Box
+
+To:         Box
+
+Message:
+
+-----BEGIN PGP MESSAGE-----
+
+hQEMAzTNWhRcR84wAQgApYVxrVwZMa4wEzb5Drtc49Coz25Ib1409b5hujm0eYud
+U5mcUvSaSJo5FiXZehHmMVMsKlktLFIlV1uttEyQWkmMRJTUEBFZIOCHXP/TDpsY
+FyUWuYy7cxAF5eLs/QB2nOFjiLO6Q9J1zvRXgPO1xZwbf7lQu1HJWp2bdCiE+8wN
+qvGU7rYxgTwRbbI2454q9F6GFNTsg2v6PxqdcxhCf4PTPgW0ZmLWS0G2UBlz+UpL
+hK/roo490u3qFq3bzDay7iEIcPRILxsVJyWco6LVNzx4BoNISrATCRMrmAetRDqv
+vVl/D47jJM24XZqbZ5d48h18AkM3mrcsw8kLAwj/VdLBGAFLghKEtxoBfM7TyQ+B
+713r2ptRJQN2HqEXF2QN82TjTSXVZ4sGSqj36LLH3i0Vnvl6KkyWR7LRBycRmlj2
+CvxlSxIYYLTHyIPfvvOP28wiZCMgVLvXrTjbwdg8CvyWX7cUSWFd1E4++WeU04lK
+zzxQPKEQD3137CEGl/qddn3zy95WyKrkIahZ3vU/szfYdxnB0n3nFx+aqKQDoWwU
+KsNyFU24nPgrICb9MjXy1yt861enFw+I2IuZiMG1gt22unpvtZaNpLOrhleF590p
+ywx0ByEXzCDdUXXZZTqGbggNgPGpDMmAAprpwh1/Kin+l1u1mphyxDbF9p9S9KQ5
+t1iFTc5ynRJi25zFtl5DmK1vzy4xa+7SucKpkKr9c6gMNmFezfuN/UDn9viiSqOH
+GWXR0TG1t5ryNCGXSf4VJQDrAceXHy51yEKuaAPESHe+RTq3BUndx6MQ5ibz6A8L
+6fjgYGiElGTkxHCN+e+fjlaoJPJqtZQGC2w7utszbR5nGpWP2FrYhXg3Eo4kznUw
+PV4F1mFzsMuy1OzoC9qZuwJUjcoYG/ieuQMp/X8PO/IkL+RJnjQ/ZTPUA2CCLybT
+2rUHMVRhxOQrsF4d274JlSomy3fvTEuqvwI=
+=/je7
+-----END PGP MESSAGE-----
+
+---
+
+## MongoDB Account
+
+From:       Box
+
+To:         Box
+
+Message:
+
+-----BEGIN PGP MESSAGE-----
+
+hQEMAzTNWhRcR84wAQf/Y0IQUoj+acl/TJiFs90HZP4TeXqe3oItCyUinAoCNsXv
+7oS2+DZoihRLODC+MzLNF2n5l+cH8O8jXxvvmT3ZTemyUWn5XqOr6b9TgVye+vgV
+feWGTPqBZ/plche7x8FbK2QVr+chdSr0MBAfZMEk5zA53rUexV6/BHRQkERLvZ1g
+xtdpNpEU+E2hVrY6sy6rU+AtCsk6Wb+xEJoWXlU7O0u9Yaj94yDYudlufnUEO/yT
+HpSDEshYQJuNNEMM7dLuXdeAM5cKEk2BcLTV+ChyfuEkxxQCmg1VJmgiLP5XS6Lc
+vFMPwa2CpEtA6nACL3RHEyA5I/eS0YGJqWwwJkUcydLA5wE2tu9le/ggZQwQaKxt
+4qW/zB5y17A6WUZexmTJ69B5z6RGRHtyre+dp9Ship5yi8SRqWVxOMa0WyyQq8C0
+gsrhkwjvi6qzkQRYXIZ+l1N5Z3zQX/1/b9QjHl5yHCOA0cVZPWWSk/1RyAA16UW7
+oMPHs8afwV+k8/AB42PmyYI/6dlLIa5ZptSt9b2AMw/tRb0skEVqDYZaGup0qdvl
+U6O2tvwze7fV/vO3weNkzN0Dz9ZHNDbeen7w5U+agn0GdhtfKwfclX9M3IhQ5Sq/
+nKs049sTD1GpaXfl32IMNR8xAnK/H+zEySoJ0h/g1jHEXPVfcyZIEWYGYMjVdfJy
+dWfknfRRLaBeRLycVOsUqOjhw1sy0fzDiosl3iYm0LhwcREI47LqVqsGItVkiUnM
+isQzwkwa6kwnGOWoSWuTzdHLCclvpOA6Mi9eJnkwQ+uJ+7cmCSctQQGpP17elT6w
+0gLFUzdP12ypl8VfHl5FefA2AinvOVf9foHfUdxb96mhCDXcTc2JrXsU3ttlFb5w
+LcAViTmM+/cU5y971dMqucWQojntaZxFqA==
+=oV/J
+-----END PGP MESSAGE-----
